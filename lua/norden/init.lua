@@ -1,0 +1,5 @@
+require("norden.remap")
+require("norden.lazy")
+require("norden.keymaps")
+require("norden.settings")
+require("norden.autocomplete")
